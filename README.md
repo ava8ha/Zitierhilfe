@@ -2,7 +2,7 @@
 
 
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Wir sind die Frösche und unsere Nachnamen sind: Sutter, Hassani, Bürgi und Wiederkehr
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -16,7 +16,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Projekt ist eine Zitierhilfe zu programmieren.
 
 ### 1.2 User Stories
 
@@ -36,9 +36,6 @@
 | 1.3  | Code wird gestartet|Alter schützt vor Liebe nicht, aber Liebe vor dem Altern. -> Coco Chanell, (Wenn vorhanden Datum)| Zitat wird formel Konvertiert|
 | 1.4  | Code wird gestartet|Auch aus Steinen, die einem in den Weg gelegt werden, kann man Schönes bauen. -> Johann Woflgang von Goethe, (Buch Titel), (Jahr)| Zitat wird formel Konvertiert| 
 
-### 1.4 Diagramme
-
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 
 ## 2 Planen
 
@@ -48,13 +45,12 @@
 | 1.B  |  19.10.2022     |   Carina, Marco |   Recherche App     |  180   |
 | 1.C  |  26.10.2022     |   Carina, Marco |  Anfang Code    |  180   |
 | 1.D  |   .11.2022     |   Ava |   Doku word  |    |
+| 1.E  |   19.10.2022     |  Nils |   Github  | 60   |
+| 1.F  |   23.11.2022     |   Nils |   Github  | 180   |
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
+645min
 
 ## 4 Realisieren
 
@@ -63,7 +59,9 @@ Total:
 | 1.A  | 12.10.2022       | Ava |    45'    |            40       |
 | 1.B  |  19.10.2022     |   Carina, Marco|  180   | 200   |
 | 1.C  |  26.10.2022     |   Carina, Marco |  180   | 180 |
-
+| 1.D  |   .11.2022     |   Ava |   Doku word  |    |
+| 1.E  |   19.10.2022     |  Nils |   60  | 70   |
+| 1.F  |   23.11.2022     |   Nils |   180 | 180   |
 
 
 ## 5 Kontrollieren
